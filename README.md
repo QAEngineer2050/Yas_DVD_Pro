@@ -70,6 +70,8 @@ staff: Stores staff information.
 store: Contains information about rental stores.
 
 ![DVD_Photo](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/aa09579c-9cf6-4b08-877d-32b31b59bcb5)
+![DVD_Photo](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/e815b877-7f69-4bfa-aca3-a1bb4a042edb)
+
 
 ![relationship tables project](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/7e41fd16-bdc9-4675-a9c4-a80c07809f82)
 
