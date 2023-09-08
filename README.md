@@ -68,5 +68,9 @@ staff: Stores staff information.
 15- select * from store
 
 store: Contains information about rental stores.
+
 ![DVD_Photo](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/aa09579c-9cf6-4b08-877d-32b31b59bcb5)
+
+![relationship tables project](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/7e41fd16-bdc9-4675-a9c4-a80c07809f82)
+
 
