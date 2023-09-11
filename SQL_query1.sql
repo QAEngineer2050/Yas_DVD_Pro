@@ -29,3 +29,4 @@ select * from staff
 --16 Retrieve all records from the store table.
 select * from store 
 
+
