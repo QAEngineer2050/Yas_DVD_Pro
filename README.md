@@ -8,66 +8,65 @@ Below is an overview of the tables and the SQL queries included in the project:
 
 Tables querys 
 
-1- select * from actor
+--1 Retrieve all records from the actor table.
+    select * from actor
 
-actor: Contains information about actors in films.
+--2 Retrieve all records from the address table.
 
-2- select * from address
+    select * from address
 
-address: Stores address details.
+--3  Retrieve all records from the category table.
 
-3- select * from category
+    select * from category
 
-category: Contains film categories.
+--4 Retrieve all records from the city table.
 
-4- select * from city
+  select * from city
 
-city: Holds information about cities.
+--5 Retrieve all records from the country table.
 
-5- select * from country
+  select * from country
 
-country: Contains data about countries.
+--6 Retrieve all records from the customer table.
 
-6- select * from customer
+  select * from customer
 
-customer: Stores customer information.
+--7 Retrieve all records from the film table.
 
-7- select * from film
+  select * from film
 
-film: Contains information about films.
+--8 Retrieve all records from the film_actor table.
 
+  select * from film_actor
 
-8- select * from film_actor
+--9 Retrieve all records from the film_category table
 
-film_actor: Represents the relationship between films and actors.
+  select * from film_category
 
-9- select * from film_category
+--10 Retrieve all records from the inventory table.
 
-film_category: Represents the relationship between films and categories.
+  select * from inventory
 
-10- select * from inventory
+--11 Retrieve all records from the language table.
 
-inventory: Contains film inventory details.
+  select * from language
 
-11- select * from language
+--12 Retrieve all records from the payment table
+.
+  select * from payment 
 
-language: Stores information about languages.
+--13 Retrieve all records from the rental table.
 
-12- select * from payment 
+  select * from rental 
 
-payment: Contains payment records.
+--14 Retrieve all records from the staff table.
 
-13- select * from rental
+  select * from staff
 
-rental: Holds rental transaction data.
+--16 Retrieve all records from the store table.
 
-14- select * from staff
+  select * from store 
 
-staff: Stores staff information.
-
-15- select * from store
-
-store: Contains information about rental stores.
 
 ![DVD_Photo](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/aa09579c-9cf6-4b08-877d-32b31b59bcb5)
 ![DVD_Photo](https://github.com/QAEngineer2050/Yas_DVD_Pro/assets/144169921/e815b877-7f69-4bfa-aca3-a1bb4a042edb)
