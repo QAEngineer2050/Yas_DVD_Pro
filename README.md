@@ -63,7 +63,7 @@ Tables querys
 
   select * from staff
 
---16 Retrieve all records from the store table.
+--15 Retrieve all records from the store table.
 
   select * from store 
 
